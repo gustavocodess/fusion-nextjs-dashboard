@@ -49,7 +49,8 @@ export const popularDestinations: Destination[] = [
     id: "3",
     name: "Kyoto Gardens Hotel",
     location: "Kyoto, Japan",
-    image_url: "/destinations/kyoto.jpg",
+    image_url:
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
     bookings: 118,
     rating: 4.7,
   },
@@ -57,7 +58,8 @@ export const popularDestinations: Destination[] = [
     id: "4",
     name: "Machu Picchu Retreat",
     location: "Cusco, Peru",
-    image_url: "/destinations/machu-picchu.jpg",
+    image_url:
+      "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=800&q=80",
     bookings: 98,
     rating: 4.6,
   },
