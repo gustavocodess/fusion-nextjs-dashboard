@@ -31,7 +31,8 @@ export const popularDestinations: Destination[] = [
     id: "1",
     name: "Bali Paradise Resort",
     location: "Bali, Indonesia",
-    image_url: "/destinations/bali.jpg",
+    image_url:
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
     bookings: 145,
     rating: 4.8,
   },
@@ -39,7 +40,8 @@ export const popularDestinations: Destination[] = [
     id: "2",
     name: "Santorini Villas",
     location: "Santorini, Greece",
-    image_url: "/destinations/santorini.jpg",
+    image_url:
+      "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=80",
     bookings: 132,
     rating: 4.9,
   },
